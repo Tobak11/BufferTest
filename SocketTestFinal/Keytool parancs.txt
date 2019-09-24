@@ -1,0 +1,1 @@
+keytool -genkey -dname "CN=Unknown,O=Unknown,C=Unknown" -keystore mykeystore.keystore -keysize 1024 -alias b4a -validity 14000 -keypass 123456 -storepass 123456

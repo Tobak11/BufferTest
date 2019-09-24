@@ -1,0 +1,59 @@
+Secure socket bandwidth test
+DataSize: 131072, bufferSize: 1024
+data size, bufferSize, Bandwith (MB/s): 131072, 1024, 2.746892934463969
+DataSize: 131072, bufferSize: 2048
+data size, bufferSize, Bandwith (MB/s): 131072, 2048, 10.07697600430166
+DataSize: 131072, bufferSize: 4096
+data size, bufferSize, Bandwith (MB/s): 131072, 4096, 17.619578085811856
+DataSize: 131072, bufferSize: 8192
+data size, bufferSize, Bandwith (MB/s): 131072, 8192, 21.01224206842494
+DataSize: 131072, bufferSize: 16384
+data size, bufferSize, Bandwith (MB/s): 131072, 16384, 25.896117001556977
+DataSize: 131072, bufferSize: 32768
+data size, bufferSize, Bandwith (MB/s): 131072, 32768, 0.35461553049439376
+DataSize: 131072, bufferSize: 65536
+data size, bufferSize, Bandwith (MB/s): 131072, 65536, 0.7072324006857869
+DataSize: 131072, bufferSize: 131072
+data size, bufferSize, Bandwith (MB/s): 131072, 131072, 1.4148791498518656
+DataSize: 16777216, bufferSize: 1024
+data size, bufferSize, Bandwith (MB/s): 16777216, 1024, 6.938139217704267
+DataSize: 16777216, bufferSize: 2048
+data size, bufferSize, Bandwith (MB/s): 16777216, 2048, 12.183482862030731
+DataSize: 16777216, bufferSize: 4096
+data size, bufferSize, Bandwith (MB/s): 16777216, 4096, 16.765489166006777
+DataSize: 16777216, bufferSize: 8192
+data size, bufferSize, Bandwith (MB/s): 16777216, 8192, 21.100313846068147
+DataSize: 16777216, bufferSize: 16384
+data size, bufferSize, Bandwith (MB/s): 16777216, 16384, 23.88031872010662
+DataSize: 16777216, bufferSize: 32768
+data size, bufferSize, Bandwith (MB/s): 16777216, 32768, 0.3550910719400649
+DataSize: 16777216, bufferSize: 65536
+data size, bufferSize, Bandwith (MB/s): 16777216, 65536, 0.7100515672394522
+DataSize: 16777216, bufferSize: 131072
+data size, bufferSize, Bandwith (MB/s): 16777216, 131072, 1.3155852948464504
+DataSize: 16777216, bufferSize: 262144
+data size, bufferSize, Bandwith (MB/s): 16777216, 262144, 2.55091816319852
+DataSize: 16777216, bufferSize: 524288
+data size, bufferSize, Bandwith (MB/s): 16777216, 524288, 4.731003827419944
+DataSize: 16777216, bufferSize: 1048576
+data size, bufferSize, Bandwith (MB/s): 16777216, 1048576, 8.801762549429819
+DataSize: 16777216, bufferSize: 2097152
+data size, bufferSize, Bandwith (MB/s): 16777216, 2097152, 15.853893560890398
+DataSize: 16777216, bufferSize: 4194304
+data size, bufferSize, Bandwith (MB/s): 16777216, 4194304, 25.34110392944226
+DataSize: 16777216, bufferSize: 8388608
+data size, bufferSize, Bandwith (MB/s): 16777216, 8388608, 34.66903174178672
+DataSize: 16777216, bufferSize: 16777216
+data size, bufferSize, Bandwith (MB/s): 16777216, 16777216, 44.37845269909305
+DataSize: 536870912, bufferSize: 1024
+data size, bufferSize, Bandwith (MB/s): 536870912, 1024, 6.956754034221665
+DataSize: 536870912, bufferSize: 2048
+data size, bufferSize, Bandwith (MB/s): 536870912, 2048, 10.365212026631133
+DataSize: 536870912, bufferSize: 4096
+data size, bufferSize, Bandwith (MB/s): 536870912, 4096, 13.880942820287764
+DataSize: 536870912, bufferSize: 8192
+data size, bufferSize, Bandwith (MB/s): 536870912, 8192, 16.656391893720492
+DataSize: 536870912, bufferSize: 16384
+data size, bufferSize, Bandwith (MB/s): 536870912, 16384, 17.65796355085543
+DataSize: 536870912, bufferSize: 32768
+BUILD STOPPED (total time: 261 minutes 40 seconds)
